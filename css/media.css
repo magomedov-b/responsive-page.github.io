@@ -1,0 +1,90 @@
+@media screen and (max-width: 1050px) {
+  .card {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .main-nav-item {
+    margin: 5px;
+  }
+
+  .logo {
+    display: inline-block;
+  }
+
+  .blocks {
+    flex-wrap: wrap;
+  }
+
+  .block {
+    width: 100%;
+    padding: 0px 30px 60px 30px;
+  }
+
+  .block-cards-title {
+    padding: 30px 0 0 0;
+  }
+
+  .cards {
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 50%;
+    padding: 0 20px;
+  }
+
+  .clients-block {
+    flex-wrap: wrap;
+  }
+
+  .clients {
+    text-align: center;
+    width: 100%;
+  }
+
+  .clients-links {
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .client-link {
+    margin: 10px;
+  }
+
+  .coments {
+    flex-wrap: wrap;
+  }
+
+  .coment {
+    width: 100%;
+    margin-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+
+  .header-top {
+    justify-content: center;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .card {
+    width: 100%;
+    padding-bottom: 0;
+  }
+
+  .block {
+    width: 100%;
+    padding: 0px 20px 43px 20px;
+  }
+
+  .input {
+    width: 50%;
+  }
+
+}  
