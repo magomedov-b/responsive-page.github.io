@@ -1,1 +1,1 @@
-# responsive-page
+# responsive-page.github.io
